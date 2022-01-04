@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNToOne", "PrintNToOne\PrintNToOne.csproj", "{0D8793B5-0019-4C4F-BE66-C3A8F7BA4EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D8793B5-0019-4C4F-BE66-C3A8F7BA4EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8793B5-0019-4C4F-BE66-C3A8F7BA4EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8793B5-0019-4C4F-BE66-C3A8F7BA4EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8793B5-0019-4C4F-BE66-C3A8F7BA4EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3280B778-A850-40FF-8F49-B22E87C1E8B1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+D:\개인\project\백준\for문\PrintOneToN\PrintOneToN\bin\Debug\netcoreapp3.1\PrintOneToN.exe
+D:\개인\project\백준\for문\PrintOneToN\PrintOneToN\bin\Debug\netcoreapp3.1\PrintOneToN.deps.json
+D:\개인\project\백준\for문\PrintOneToN\PrintOneToN\bin\Debug\netcoreapp3.1\PrintOneToN.runtimeconfig.json
+D:\개인\project\백준\for문\PrintOneToN\PrintOneToN\bin\Debug\netcoreapp3.1\PrintOneToN.runtimeconfig.dev.json
+D:\개인\project\백준\for문\PrintOneToN\PrintOneToN\bin\Debug\netcoreapp3.1\PrintOneToN.dll
+D:\개인\project\백준\for문\PrintOneToN\PrintOneToN\bin\Debug\netcoreapp3.1\PrintOneToN.pdb
+D:\개인\project\백준\for문\PrintOneToN\PrintOneToN\obj\Debug\netcoreapp3.1\PrintOneToN.csprojAssemblyReference.cache
+D:\개인\project\백준\for문\PrintOneToN\PrintOneToN\obj\Debug\netcoreapp3.1\PrintOneToN.AssemblyInfoInputs.cache
+D:\개인\project\백준\for문\PrintOneToN\PrintOneToN\obj\Debug\netcoreapp3.1\PrintOneToN.AssemblyInfo.cs
+D:\개인\project\백준\for문\PrintOneToN\PrintOneToN\obj\Debug\netcoreapp3.1\PrintOneToN.csproj.CoreCompileInputs.cache
+D:\개인\project\백준\for문\PrintOneToN\PrintOneToN\obj\Debug\netcoreapp3.1\PrintOneToN.dll
+D:\개인\project\백준\for문\PrintOneToN\PrintOneToN\obj\Debug\netcoreapp3.1\PrintOneToN.pdb
+D:\개인\project\백준\for문\PrintOneToN\PrintOneToN\obj\Debug\netcoreapp3.1\PrintOneToN.genruntimeconfig.cache
