@@ -1,0 +1,13 @@
+D:\개인\project\백준\for문\FastAPlusB\FastAPlusB\bin\Debug\netcoreapp3.1\FastAPlusB.exe
+D:\개인\project\백준\for문\FastAPlusB\FastAPlusB\bin\Debug\netcoreapp3.1\FastAPlusB.deps.json
+D:\개인\project\백준\for문\FastAPlusB\FastAPlusB\bin\Debug\netcoreapp3.1\FastAPlusB.runtimeconfig.json
+D:\개인\project\백준\for문\FastAPlusB\FastAPlusB\bin\Debug\netcoreapp3.1\FastAPlusB.runtimeconfig.dev.json
+D:\개인\project\백준\for문\FastAPlusB\FastAPlusB\bin\Debug\netcoreapp3.1\FastAPlusB.dll
+D:\개인\project\백준\for문\FastAPlusB\FastAPlusB\bin\Debug\netcoreapp3.1\FastAPlusB.pdb
+D:\개인\project\백준\for문\FastAPlusB\FastAPlusB\obj\Debug\netcoreapp3.1\FastAPlusB.csprojAssemblyReference.cache
+D:\개인\project\백준\for문\FastAPlusB\FastAPlusB\obj\Debug\netcoreapp3.1\FastAPlusB.AssemblyInfoInputs.cache
+D:\개인\project\백준\for문\FastAPlusB\FastAPlusB\obj\Debug\netcoreapp3.1\FastAPlusB.AssemblyInfo.cs
+D:\개인\project\백준\for문\FastAPlusB\FastAPlusB\obj\Debug\netcoreapp3.1\FastAPlusB.csproj.CoreCompileInputs.cache
+D:\개인\project\백준\for문\FastAPlusB\FastAPlusB\obj\Debug\netcoreapp3.1\FastAPlusB.dll
+D:\개인\project\백준\for문\FastAPlusB\FastAPlusB\obj\Debug\netcoreapp3.1\FastAPlusB.pdb
+D:\개인\project\백준\for문\FastAPlusB\FastAPlusB\obj\Debug\netcoreapp3.1\FastAPlusB.genruntimeconfig.cache

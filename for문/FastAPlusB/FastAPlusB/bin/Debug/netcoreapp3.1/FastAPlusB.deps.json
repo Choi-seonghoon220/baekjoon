@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FastAPlusB/1.0.0": {
+        "runtime": {
+          "FastAPlusB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FastAPlusB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
